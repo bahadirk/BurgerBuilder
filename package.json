@@ -34,6 +34,7 @@
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.2.1",
     "postcss-safe-parser": "4.0.1",
+    "prop-types": "^15.7.2",
     "react": "^16.8.5",
     "react-app-polyfill": "^0.2.2",
     "react-dev-utils": "^8.0.0",
